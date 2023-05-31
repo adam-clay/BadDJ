@@ -1,5 +1,3 @@
-411 Project
-==========
 
 ## 1. Music Sharing Platform
 
